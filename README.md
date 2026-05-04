@@ -1,4 +1,4 @@
-<img width="1963" height="1428" alt="image" src="https://github.com/user-attachments/assets/b09a5132-136a-45e6-961d-a3beed30524e" />MediaPlayer(多媒體播放器) 這是一個用 C# WinForms 開發的輕量級播放器，核心使用 Windows Media Player (WMP) 元件。
+MediaPlayer(多媒體播放器) 這是一個用 C# WinForms 開發的輕量級播放器，核心使用 Windows Media Player (WMP) 元件。
 
 🛠 主要功能 
 
